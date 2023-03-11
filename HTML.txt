@@ -1,0 +1,39 @@
+HTML - Hyper Text Markup Language
+
+- used to create web pages
+
+- can define the series of HTML tags
+
+
+Choosing a text editor:
+- 
+ 
+
+Creating a html file:
+
+1.Create folder for project
+
+2.Create file inside folder
+
+
+Tags helps to tell how the website should look and what all should it have on website
+
+Doctype: <DOCTYPE html> - tells that the type of this document is htm
+l
+Container tags:
+  
+2 tags:
+    
+1.Starting tag
+  
+ 2.Ending tag
+html tag: <html>....</html>
+
+html tag is highest level tag
+head tags: 
+used to import any resource that we need into our HTML file
+-head is like the settings of the file
+-create head using head tags
+body 
+tag: it is where all our HTML content going to
+-contains the content of our webpage
