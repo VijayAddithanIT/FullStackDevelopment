@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="College website of SECE">
+        <title>WEBSITE</title>
+    </head>
+    <header>
+    <body style="background-color:lightblue">
+        <h1 style="background-color:blue; text-align: center">Sri Eshwar College of Engineering</h1>
+    </header>  
+        <hr/>
+        <br/>
+        <main>
+        <p><big>DEPARTMENTS:</b></big></p>
+        <p>1.INFORMATION TECHNOLOGY</p>
+        <p>2.MECHANICAL ENGINEERING</p>
+        <p>3.ELECTRICAL AND ELECTRONICS ENGINEERING</p>
+        <P>4.COMPUTER SCIENCE AND ENGINEERING</P>
+        </main>
+        <!--Invisible comment-->
+        <footer>
+        <p>Registrations open</p>
+        <p>For more informations:</p>
+        <a href="https://sece.ac.in" target="_blank">Homepage</a>
+        <br/>
+        <a href="sece.jpg"></a>
+        <br/>
+        <br/>
+        <a href="https://www.google.com/search?q=sece&tbm=isch&chips=q:sece,online_chips:sri+eshwar+college+of+engineering+college:hXT25MaPszM%3D&rlz=1C1FHFK_enIN998IN998&hl=en&sa=X&ved=2ahUKEwi_18LrgNf9AhW41XMBHRBgB7IQ4lYoAHoECAEQKw&biw=664&bih=266#imgrc=J06YSj0lh_cE1M">College image</a>
+        <br/>
+        <br/>
+        <img width="400" height="200" src="sece.jpg"/>
+        </footer>
+    </body>
+</html>
