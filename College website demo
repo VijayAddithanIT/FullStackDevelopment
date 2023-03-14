@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="decription" content="About SECE"
+        <meta name="description" content="College website of SECE">
+        <meta name="college" content="width=device-width, initial-scale=1.0">
+        <title>WEBSITE</title>
+    </head>
+    <header>
+    <body style="background-color:lightblue">
+        <h1 style="background-color:blue; text-align: center">Sri Eshwar College of Engineering</h1>
+    </header>  
+        <hr/>
+        <br/>
+        <main>
+        <p><big>DEPARTMENTS:</b></big></p>
+        <p>1.INFORMATION TECHNOLOGY</p>
+        <p>2.MECHANICAL ENGINEERING</p>
+        <p>3.ELECTRICAL AND ELECTRONICS ENGINEERING</p>
+        <P>4.COMPUTER SCIENCE AND ENGINEERING</P>
+        </main>
+        <!--Invisible comment-->
+        <footer>
+        <p>Registrations open</p>
+        <p>For more informations:</p>
+        <a href="https://sece.ac.in" target="_blank">Homepage</a>
+        <br/>
+        <a href="sece.jpg"></a>
+        <br/>
+        <br/>
+        <a href="https://www.google.com/search?q=sece&tbm=isch&chips=q:sece,online_chips:sri+eshwar+college+of+engineering+college:hXT25MaPszM%3D&rlz=1C1FHFK_enIN998IN998&hl=en&sa=X&ved=2ahUKEwi_18LrgNf9AhW41XMBHRBgB7IQ4lYoAHoECAEQKw&biw=664&bih=266#imgrc=J06YSj0lh_cE1M">College image</a>
+        <br/>
+        <br/>
+        <img width="400" height="200" src="sece.jpg"/>
+        <br/>
+        <h4>YouTube link below:</h4>
+        <br/>
+        <iframe width="560" height="315" src="https://youtu.be/WpPR-h73iRk" frameborder="0" allowfullscreen></iframe>
+        <br/>
+        <h4>FACILITIES:</h4>
+        <ul>
+            <li><a href="#">Aminity Centre</a></li>
+            <li><a href="#">Open Air Theatre</a></li>
+            <li><a href="#">IT Centre</a></li>
+        </ul>
+        <table>
+            <caption><h4>List of admissions</h4></caption>
+            <tr>
+                <th>IT</th>
+                <th>ECE</th>
+                <th>CSE</th>
+            </tr>
+            <tr>
+                <td>65</td>
+                <td>180</td>
+                <td>240</td>
+            </tr>
+        </table>
+        <br/>
+        <h4>Register for Enquiry</h4>
+        <input type="text" value="Enter your name"/>
+        <br/>
+        <br/>
+        <input type="date" value="Enter the date of month"/>
+        <br/>
+        <br/>
+        <input type="file" value="Upload aadhar"/>
+        <br/>
+        <br/>
+        <input type="submit"/>
+        <br/>
+        <h4>Official Website</h4>
+        <iframe src="http://sece.ac.in" frameborder="0" width="1000" height="800">Website</iframe>
+        <br/>
+        <br/>
+        <h1 style="background-color:yellow; text-align:center;">Begin your success story at Sri Eshwar</h1>
+        </footer>
+    </body>
+</html>
