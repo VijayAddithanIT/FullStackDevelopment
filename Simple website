@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>
+            Simple website
+        </title>
+    </head>
+    <body>
+        <body background="bgpic.jpg" link="#000" alink="017bf5" vlink="#000"></body>
+        <!-- banner-->
+        <div class="main">
+            <br><br>
+            <p align="center">
+                <font face="sans-serif" size="6" color="#f00">LOGO</font>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <font face="sans" size="5" color="#000">
+                    <a href="#">Home</a>
+                    <a href="#">Videos</a>
+                    <a href="#">Portfolio</a>
+                    <a href="#">HOME</a>
+                </font>
+            </p>
+            <br><br><br><br><br><br><br><br><br><br>
+            <p align="center">
+                <font face="sans-serif" color="#017bf5" size="7">WELCOME</font>
+            </p>
+            <p align="center">
+                <font face="sans-serif" color="#000" size="5">WELCOME EVERYONE</font>
+            </p>
+            <p align="center">
+                <a href="#">
+                    <font face="sans-serif" color="#000" size="4">Get Started</font>
+                </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">
+                    <font face="sans-serif" color="#f100" size="4">Register</font>
+                </a>
+            </p>
+        </div>
+    </body>
+</html>
